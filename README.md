@@ -1,2 +1,3 @@
 # customer_behavior_analysis
-~#dvkksdjfglsdlg,sdl,v
+
+Data Analytics Project Focused on Customer Behavior Insights Using Python, SQL, and Power BI
